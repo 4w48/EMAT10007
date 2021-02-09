@@ -1,3 +1,3 @@
-# EMAT10007
+# EMAT10007 Python Programming
 
-Just another repository!
+A simple GUI based scorecard able to record and process cricket scores.
